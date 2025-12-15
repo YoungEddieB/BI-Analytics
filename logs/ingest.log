@@ -1,0 +1,12 @@
+2025-11-02 12:54:19,193 | INFO | === START: INGEST ===
+2025-11-02 12:54:19,193 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 12:54:19,262 | INFO | Doctors file loaded: 5 rows
+2025-11-02 12:54:19,262 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 12:54:19,281 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 12:54:19,281 | INFO | === END: INGEST ===
+2025-11-02 12:54:19,282 | INFO | === START: INGEST ===
+2025-11-02 12:54:19,282 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 12:54:19,288 | INFO | Doctors file loaded: 5 rows
+2025-11-02 12:54:19,288 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 12:54:19,307 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 12:54:19,307 | INFO | === END: INGEST ===
